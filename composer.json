@@ -1,0 +1,10 @@
+{
+    "name": "pixel/heroku_hello_world",
+    "authors": [
+        {
+            "name": "兎兎寂",
+            "email": "overpixel01@gmail.com"
+        }
+    ],
+    "require": {}
+}
